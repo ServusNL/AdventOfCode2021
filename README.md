@@ -1,0 +1,1 @@
+Advent of code 2021 by a noob.
